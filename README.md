@@ -4,13 +4,13 @@
 
 > **Status: Work in Progress**  
 
-> This repository is a \*\*preview / announcement\*\* only. \*\*No script files are published here yet.\*\*  
+> This repository is a **preview / announcement** only. **No script files are published here yet.**  
 
-> Active development is ongoing. Source and assets will be released through an official \*\*paid\*\* storefront when the product is ready.
+> Active development is ongoing. Source and assets will be released through an official **paid** storefront when the product is ready.
 
 
 
-\*\*Supernatural-style creature hunts\*\* for FiveM (QBCore + ox\_lib + ox\_inventory).  
+**Supernatural-style creature hunts** for FiveM (QBCore + ox\_lib + ox\_inventory).  
 
 Designed for immersive RP servers — hunt contracts, rituals, silver rounds, and a Hunter Market.
 
@@ -24,11 +24,11 @@ Designed for immersive RP servers — hunt contracts, rituals, silver rounds, an
 
 
 
-`County-HexHunt` turns night-time into a hunter’s shift. Players pick up contracts from a \*\*Hunt Board\*\*, gear up at the \*\*Hunter Market\*\*, track targets with an \*\*EMF Reader\*\*, and finish creatures with \*\*rituals + silver\*\* — inspired by classic monster-hunter TV lore (ghosts, vampires, demons, beasts, and more).
+`County-HexHunt` turns night-time into a hunter’s shift. Players pick up contracts from a **Hunt Board**, gear up at the **Hunter Market**, track targets with an **EMF Reader** and finish creatures with **rituals + silver** — inspired by classic monster-hunter TV lore (ghosts, vampires, demons, beasts, and more).
 
 
 
-Built for \*\*Roxwood / county-style\*\* worlds, but configurable for other maps via spawn zones.
+Built for **County-Style** worlds, but configurable for other maps via spawn zones.
 
 
 
@@ -108,13 +108,13 @@ Built for \*\*Roxwood / county-style\*\* worlds, but configurable for other maps
 
 |-----------------|-------------------------------|
 
-| \*\*QBCore\*\*      | Framework                     |
+| **QBCore**      | Framework                     |
 
-| \*\*ox\_lib\*\*      | UI / progress / callbacks     |
+| **ox\_lib**      | UI / progress / callbacks     |
 
-| \*\*ox\_inventory\*\*| Items, weapons, stashes       |
+| **ox\_inventory**| Items, weapons, stashes       |
 
-| \*\*qb-target\*\* or \*\*ox\_target\*\* | Interactions (board / armory) |
+| **qb-target** or **ox\_target** | Interactions (board / armory) |
 
 
 
@@ -130,7 +130,7 @@ Optional: custom ped packs for creature models (configurable fallbacks included)
 
 
 
-\*\*Not available as a public download from this repository.\*\*
+**Not available as a public download from this repository.**
 
 
 
@@ -190,9 +190,9 @@ This project is \*\*proprietary paid software\*\*.
 
 
 
-\- \*\*Not\*\* open source  
+\- **Not** open source  
 
-\- \*\*Not\*\* free to redistribute  
+\- **Not** free to redistribute  
 
 \- Purchase grants a license to run on \*\*one\*\* FiveM server you operate  
 
@@ -244,11 +244,11 @@ Unauthorized distribution may result in license termination and storefront / Key
 
 
 
-\- \*\*Purchase:\*\* Coming soon (official storefront link will be added here)  
+\- **Purchase:** Coming soon (official storefront link will be added here)  
 
-\- \*\*Support:\*\* Via the storefront ticket / Discord linked on the product page (TBA)  
+\- **Support:** Via the storefront ticket / Discord linked on the product page (TBA)  
 
-\- \*\*Issues on this repo:\*\* Please use discussions / issues only for \*\*public questions about the product\*\*. Do not request free copies of the script.
+\- **Issues on this repo:** Please use discussions / issues only for **public questions about the product**. Do not request free copies of the script.
 
 
 
@@ -264,7 +264,7 @@ Developed for FiveM RP Creature-Hunters everywhere.
 
 
 
-\*\*by pacxwheaa\*\*
+**by pacxwheaa**
 
 
 
